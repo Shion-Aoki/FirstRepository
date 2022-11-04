@@ -27,4 +27,4 @@
             <a href="/posts/{{ $post->id }}">戻る</a>
         </div>
     </body>
-</html>
+</html> 
